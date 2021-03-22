@@ -1,3 +1,4 @@
 # PatatapClone
 A random animation app like PATATAP.
-Press any key to see animation
+
+Go <a href = "https://vidithagarwal.github.io/PatatapClone/">Here </a>Press any key to see animation
